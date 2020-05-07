@@ -1,2 +1,2 @@
-# dogs-and-cat-classification
+# Churn-Modelling
 A Deep Learning Project
